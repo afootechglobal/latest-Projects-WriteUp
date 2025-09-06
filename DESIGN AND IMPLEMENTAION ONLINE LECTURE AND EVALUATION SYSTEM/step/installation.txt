@@ -1,0 +1,8 @@
+PROJECT INSTRUCTION FOR INSTALLATION.
+1. Install XAMPP application 7.1 or 8.2 version.
+2. Go to LOCAL C and open HTDOCS folder.
+3. Open the project folder (project).
+4. Open the project name (mapolyscreenclass).
+5. Open XAMPP application and go to browser and type 'localhost' on URL.
+6. Import the database file from db folder.
+7. Start.
